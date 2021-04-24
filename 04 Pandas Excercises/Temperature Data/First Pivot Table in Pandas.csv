@@ -1,0 +1,101 @@
+Country;City;AverageTemperature;AverageTemperatureUncertainty
+Afghanistan;Kabul;14.343;0.948
+Angola;Luanda;23.693;0.746
+Australia;Melbourne;13.374;0.568
+Australia;Sydney;17.002;0.598
+Bangladesh;Dhaka;25.491;0.867
+Brazil;Belo Horizonte;21.071;0.895
+Brazil;Brasília;21.728;0.858
+Brazil;Fortaleza;27.009;0.775
+Brazil;Rio De Janeiro;23.789;0.975
+Brazil;Salvador;24.657;0.865
+Brazil;São Paulo;19.699;0.875
+Burma;Rangoon;26.735;0.934
+Canada;Montreal;4.445;1.338
+Canada;Toronto;5.774;1.277
+Chile;Santiago;5.692;0.723
+China;Changchun;4.924;0.995
+China;Chengdu;10.638;0.866
+China;Chongqing;16.845;0.805
+China;Dalian;10.229;0.812
+China;Guangzhou;21.609;0.747
+China;Harbin;3.626;1.010
+China;Jinan;13.090;0.817
+China;Nanjing;15.602;0.763
+China;Peking;11.809;1.003
+China;Shanghai;15.970;0.774
+China;Shenyang;7.215;0.858
+China;Taiyuan;7.977;1.037
+China;Tangshan;11.579;0.999
+China;Tianjin;11.809;1.003
+China;Wuhan;16.831;0.746
+China;Xian;11.487;0.935
+Colombia;Bogotá;20.002;0.708
+Colombia;Cali;21.797;0.710
+Congo (Democratic Republic Of The);Kinshasa;23.866;0.637
+Côte D'Ivoire;Abidjan;26.164;0.679
+Dominican Republic;Santo Domingo;25.977;0.709
+Egypt;Alexandria;20.313;0.994
+Egypt;Cairo;21.221;0.892
+Egypt;Gizeh;21.221;0.892
+Ethiopia;Addis Abeba;17.525;0.834
+France;Paris;10.403;1.596
+Germany;Berlin;8.916;1.596
+India;Ahmadabad;26.530;0.951
+India;Bangalore;24.856;0.912
+India;Bombay;26.631;0.940
+India;Calcutta;26.042;0.880
+India;Delhi;25.166;0.949
+India;Hyderabad;26.869;0.956
+India;Jaipur;25.393;0.952
+India;Kanpur;24.760;0.962
+India;Lakhnau;24.760;0.962
+India;Madras;28.418;0.999
+India;Nagpur;25.655;0.954
+India;New Delhi;25.166;0.949
+India;Pune;24.645;0.946
+India;Surat;26.331;0.934
+Indonesia;Jakarta;26.508;0.542
+Indonesia;Surabaya;26.810;0.666
+Iran;Mashhad;12.572;0.996
+Iraq;Baghdad;22.614;1.020
+Italy;Rome;11.966;1.553
+Japan;Nagoya;14.755;0.584
+Japan;Tokyo;12.556;0.613
+Kenya;Nairobi;16.081;0.597
+Mexico;Mexico;15.717;0.812
+Morocco;Casablanca;17.184;1.326
+Nigeria;Ibadan;26.373;0.649
+Nigeria;Kano;26.141;0.768
+Nigeria;Lagos;26.566;0.634
+Pakistan;Faisalabad;24.138;0.767
+Pakistan;Karachi;26.017;0.921
+Pakistan;Lahore;24.138;0.767
+Peru;Lima;16.769;0.825
+Philippines;Manila;26.448;0.673
+Russia;Moscow;4.000;1.458
+Russia;Saint Petersburg;3.918;1.537
+Saudi Arabia;Jiddah;27.692;0.883
+Saudi Arabia;Riyadh;25.263;0.985
+Senegal;Dakar;24.628;0.785
+Singapore;Singapore;26.523;0.621
+Somalia;Mogadishu;27.152;0.871
+South Africa;Cape Town;16.079;0.913
+South Africa;Durban;20.351;0.758
+South Korea;Seoul;10.682;0.735
+Spain;Madrid;11.449;1.470
+Sudan;Umm Durman;29.081;0.891
+Syria;Aleppo;17.371;0.979
+Taiwan;Taipei;22.212;0.662
+Tanzania;Dar Es Salaam;25.745;0.503
+Thailand;Bangkok;27.165;0.754
+Turkey;Ankara;10.392;1.308
+Turkey;Istanbul;13.507;1.444
+Turkey;Izmir;17.278;1.417
+Ukraine;Kiev;7.041;1.473
+United Kingdom;London;9.459;1.609
+United States;Chicago;10.071;1.327
+United States;Los Angeles;15.878;0.798
+United States;New York;9.523;1.328
+Vietnam;Ho Chi Minh City;27.194;0.653
+Zimbabwe;Harare;20.208;0.581
